@@ -58,10 +58,15 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.2f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\PublicMethod.cs" />
     <Compile Include="Assets\Scripts\StundentData.cs" />
     <Compile Include="Assets\Scripts\School.cs" />
+    <Compile Include="Assets\Scripts\BaseFunction.cs" />
+    <Compile Include="Assets\Scripts\Namespace\CreateNamespace.cs" />
+    <Compile Include="Assets\Scripts\Namespace\NameSpaceMainFile.cs" />
     <Compile Include="Assets\Scripts\DesignPatternExamples.cs" />
     <Compile Include="Assets\Scripts\Teacher.cs" />
+    <Compile Include="Assets\Scripts\InvokeMetod.cs" />
     <Compile Include="Assets\Scripts\Student.cs" />
     <Compile Include="Assets\Scripts\ClassesExample.cs" />
   </ItemGroup>
