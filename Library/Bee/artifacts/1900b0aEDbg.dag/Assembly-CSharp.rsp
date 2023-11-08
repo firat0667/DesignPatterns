@@ -358,14 +358,16 @@
 "Assets/Scripts/BaseFunction.cs"
 "Assets/Scripts/ClassesExample.cs"
 "Assets/Scripts/DesignPatternExamples.cs"
+"Assets/Scripts/FirstFile.cs"
 "Assets/Scripts/InvokeMetod.cs"
 "Assets/Scripts/Namespace/CreateNamespace.cs"
 "Assets/Scripts/Namespace/NameSpaceMainFile.cs"
+"Assets/Scripts/ObejctCatch.cs"
 "Assets/Scripts/PublicMethod.cs"
-"Assets/Scripts/School.cs"
-"Assets/Scripts/Student.cs"
-"Assets/Scripts/StundentData.cs"
-"Assets/Scripts/Teacher.cs"
+"Assets/Scripts/SchoolExample/School.cs"
+"Assets/Scripts/SchoolExample/Student.cs"
+"Assets/Scripts/SchoolExample/StundentData.cs"
+"Assets/Scripts/SchoolExample/Teacher.cs"
 -langversion:9.0
 
 /deterministic
