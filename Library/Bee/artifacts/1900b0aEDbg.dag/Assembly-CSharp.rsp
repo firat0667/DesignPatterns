@@ -368,6 +368,7 @@
 "Assets/Scripts/SchoolExample/Student.cs"
 "Assets/Scripts/SchoolExample/StundentData.cs"
 "Assets/Scripts/SchoolExample/Teacher.cs"
+"Assets/Scripts/TransFormObjects.cs"
 -langversion:9.0
 
 /deterministic

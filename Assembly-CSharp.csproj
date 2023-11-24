@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\SchoolExample\School.cs" />
     <Compile Include="Assets\Scripts\BaseFunction.cs" />
     <Compile Include="Assets\Scripts\Namespace\CreateNamespace.cs" />
+    <Compile Include="Assets\Scripts\TransFormObjects.cs" />
     <Compile Include="Assets\Scripts\SchoolExample\StundentData.cs" />
     <Compile Include="Assets\Scripts\Namespace\NameSpaceMainFile.cs" />
     <Compile Include="Assets\Scripts\DesignPatternExamples.cs" />
