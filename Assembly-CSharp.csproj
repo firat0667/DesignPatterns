@@ -70,9 +70,11 @@
     <Compile Include="Assets\Scripts\Namespace\NameSpaceMainFile.cs" />
     <Compile Include="Assets\Scripts\DesignPatternExamples.cs" />
     <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Scripts\MethodName.cs" />
     <Compile Include="Assets\Scripts\SchoolExample\Teacher.cs" />
     <Compile Include="Assets\Scripts\InvokeMetod.cs" />
     <Compile Include="Assets\Scripts\FirstFile.cs" />
+    <Compile Include="Assets\Scripts\HideFlagsExamples.cs" />
     <Compile Include="Assets\Scripts\ClassesExample.cs" />
   </ItemGroup>
   <ItemGroup>
