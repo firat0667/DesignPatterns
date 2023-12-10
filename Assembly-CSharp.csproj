@@ -63,13 +63,13 @@
     <Compile Include="Assets\Scripts\SchoolExample\Student.cs" />
     <Compile Include="Assets\Scripts\SchoolExample\School.cs" />
     <Compile Include="Assets\Scripts\BaseFunction.cs" />
+    <Compile Include="Assets\Scripts\Physic\PhysicExample.cs" />
     <Compile Include="Assets\Scripts\Namespace\CreateNamespace.cs" />
     <Compile Include="Assets\Scripts\TransFormObjects.cs" />
     <Compile Include="Assets\Scripts\MatfExamples.cs" />
     <Compile Include="Assets\Scripts\SchoolExample\StundentData.cs" />
     <Compile Include="Assets\Scripts\Namespace\NameSpaceMainFile.cs" />
     <Compile Include="Assets\Scripts\DesignPatternExamples.cs" />
-    <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scripts\MethodName.cs" />
     <Compile Include="Assets\Scripts\SchoolExample\Teacher.cs" />
     <Compile Include="Assets\Scripts\InvokeMetod.cs" />
